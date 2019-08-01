@@ -1,4 +1,4 @@
-## Python Calculator
+# Python Calculator
 
 This is a small project that I am doing in order to understand Python and create a project that can be displayed.
 
@@ -6,6 +6,6 @@ The example code here has been grabbed from [this link](https://www.youtube.com/
 
 My goal here is to understand the code and then improve upon the previous code. Whether that be by adding functions or changing the design.
 
-# Resources
+## Resources
 
 * [tkinter](https://docs.python.org/3/library/tk.html) 
